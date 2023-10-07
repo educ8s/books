@@ -14,6 +14,7 @@ A curated list of the best books I have read and highly recommend.
 # History
 
 # Minimalism
+* The power of less
 
 # Neuroscience
 
