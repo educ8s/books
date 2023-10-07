@@ -22,8 +22,10 @@ A curated list of the best books I have read and highly recommend.
 # Programming
 
 # Psychology
+* Thinking fast and slow
 
 # Statistics
+* How to lie with statistics
 
 # Writing
 
