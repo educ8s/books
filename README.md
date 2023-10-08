@@ -6,6 +6,11 @@ A curated list of the best books I have read and highly recommend.
 * Autobiography of Benjamin Franklin
 * Autobiography of Charles Darwin
 
+# Design
+
+* Universal Principles of Design
+* The Design of everyday things
+
 # Economics
 
 # Evolution
