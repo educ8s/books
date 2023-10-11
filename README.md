@@ -31,6 +31,9 @@ A curated list of the best books I have read and highly recommend.
 # Psychology
 * Thinking fast and slow
 
+# Sales
+* The ultimate sales machine
+
 # Statistics
 * How to lie with statistics
 
