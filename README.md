@@ -16,6 +16,7 @@ A curated list of the best books I have read and highly recommend.
 # Evolution
 
 # Finance
+* Financial Intelligence for Entrepreneurs
 
 # History
 
@@ -23,6 +24,8 @@ A curated list of the best books I have read and highly recommend.
 * The power of less
 
 # Neuroscience
+* Brain rules
+* Incognito - The Secret Lives of the Brain
 
 # Philosophy
 
