@@ -19,6 +19,7 @@ A curated list of the best books I have read and highly recommend.
 * Financial Intelligence for Entrepreneurs
 
 # History
+* The lessons of history
 
 # Minimalism
 * The power of less
