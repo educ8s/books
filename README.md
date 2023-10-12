@@ -24,12 +24,21 @@ A curated list of the best books I have read and highly recommend.
 # History
 * The lessons of history
 
+# Investing
+
+* Charlie Munger - Poor Charlie's Almanack
+
 # Minimalism
 * The power of less
 
 # Neuroscience
 * Brain rules
 * Incognito - The Secret Lives of the Brain
+
+# Personal Growth
+
+* Jim Rohn - The art of exceptional living
+* Naval - The Almanack Of Naval Ravikant
 
 # Philosophy
 
