@@ -42,6 +42,8 @@ A curated list of the best books I have read and highly recommend.
 
 # Philosophy
 * A guide to the good life
+* Lessons in Stoicism - John Sellars
+* On the Shortness of Life - Seneca
 
 # Programming
 
